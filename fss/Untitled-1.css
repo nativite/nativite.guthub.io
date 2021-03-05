@@ -1,0 +1,17 @@
+@media screen and (max-width:430px){
+    .bodyheader{
+        height: auto;
+        display: flex;
+        justify-content:space-between;
+        align-items:center;
+        flex-direction: column;
+        padding: 0%;
+        background-color:rebeccapurple ;
+        flex-wrap: wrap;
+    } 
+    .bodyheadernav a{
+        display: flex;
+        flex-wrap: wrap;
+    }
+    
+}
